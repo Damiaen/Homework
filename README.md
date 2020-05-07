@@ -1,5 +1,5 @@
 ## Homework
-School assignments and projects
+Code backup for school assignments and small projects
 
 ## GitHub settings
 Set up github to show correct commits for user
