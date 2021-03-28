@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Week4.Views.LoginPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Margin="32">
+            <Label Text="Username:"/>
+            <Entry x:Name="Username" Placeholder="Vul uw gebruikersnaam in"/>
+            <Label Text="Password:"/>
+            <Entry x:Name="Password" Placeholder="Vul uw wachtwoord in" IsPassword="True"/>
+            <Button Text="Login" Clicked="Login_Clicked" HorizontalOptions="Center"/>
+            <Label x:Name="NoAccountLabel" Text="Nog geen account? Maak een account aan." HorizontalOptions="Center" TextColor="Indigo"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

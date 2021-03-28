@@ -1,0 +1,52 @@
+﻿@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "Add Adress";
+}
+
+<hgroup class="title">
+    <h1>@Page.Title.</h1>
+    <h2>Voeg een adress toe aan de order.</h2>
+</hgroup>
+
+<form method="post" name="OrderInfo">
+    Straat:<br>
+    <input type="text" name="street" required>
+    <br>
+    Nummer:<br>
+    <input type="text" name="number" required>
+    <br>
+    Locatie:<br>
+    <input type="text" name="location" required>
+    <br><br>
+    <input type="submit" value="Submit">
+    @Html.Hidden("username", Request["username"])
+    @Html.Hidden("password", Request["password"])
+    @Html.Hidden("speelgoed", Request["speelgoed"])
+</form>
+
+<p>@Request["username"]</p>
+<p>@Request["password"]</p>
+<p>@Request["speelgoed"]</p>
+
+@{
+    if (IsPost && Request.UrlReferrer.AbsolutePath == Request.Url.AbsolutePath)
+    {
+        OrderInfo order = (OrderInfo)Session["OrderInfo"];
+        if (order == null)
+        {
+            order = new OrderInfo(
+                Request["username"], 
+                Request["password"], 
+                Request["speelgoed"],
+                Request.Form["street"],
+                Request.Form["number"].AsInt(),
+                Request.Form["location"]
+                );
+        }
+
+        Session["OrderInfo"] = order;
+
+        Response.Redirect("~/Overview.cshtml");
+
+    }
+}

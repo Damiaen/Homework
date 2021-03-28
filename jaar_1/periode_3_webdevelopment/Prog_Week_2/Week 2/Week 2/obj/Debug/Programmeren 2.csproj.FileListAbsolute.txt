@@ -1,0 +1,7 @@
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\bin\Debug\Programmeren_2.exe.config
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\bin\Debug\Programmeren_2.exe
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\bin\Debug\Programmeren_2.pdb
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\obj\Debug\Programmeren 2.csprojAssemblyReference.cache
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\obj\Debug\Programmeren 2.csproj.CoreCompileInputs.cache
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\obj\Debug\Programmeren_2.exe
+C:\Projects-HBO\Periode3\Prog_Week_2\Week 2\Week 2\obj\Debug\Programmeren_2.pdb

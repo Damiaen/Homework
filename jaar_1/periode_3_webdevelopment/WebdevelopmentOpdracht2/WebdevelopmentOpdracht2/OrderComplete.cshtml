@@ -1,0 +1,58 @@
+﻿@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "OrderComplete";
+
+    string isOrder;
+    isOrder = Request.QueryString["status"];
+    OrderInfo order = (OrderInfo)Session["OrderInfo"];
+
+    if (isOrder == "ok" & order != null)
+    {
+        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Orders.mdf;Integrated Security=True";
+        string provider = "System.Data.SqlClient";
+        Database db = Database.OpenConnectionString(connectionString, provider);
+        var insertCommand = "INSERT INTO OrdersInfo (username, password, product, street, number, location) VALUES(@0, @1, @2, @3, @4, @5)";
+        db.Execute(insertCommand, order.Username, order.Password, order.Product, order.Street, order.Number, order.Location);
+        Session.Clear();
+    } else if (isOrder == "cancel" & order != null)
+    {
+        Session.Clear();
+    } else
+    {
+        Session.Clear();
+        Response.Redirect("~/Login.cshtml");
+    }
+}
+
+<hgroup class="title">
+    <h1>@Page.Title.</h1>
+    <h2>Zie hier het overzicht van de geplaatste order.</h2>
+</hgroup>
+
+@{ 
+    if (isOrder == "ok")
+    {
+    <article>
+        <p><b>Gebruikersnaam:</b><br />@order.Username</p>
+        <p><b>Wachtwoord:</b><br />@order.Password</p>
+        <p><b>Product:</b><br />@order.Product</p>
+        <p><b>Straat:</b><br />@order.Street</p>
+        <p><b>Nummer:</b><br />@order.Number</p>
+        <p><b>Locatie:</b><br />@order.Location</p>
+    </article>
+    } else if (isOrder == "cancel")
+    {
+        <article>
+            <p>
+                bestelling geannuleerd
+            </p>
+        </article>
+    }
+}
+
+<aside>
+    <h3>Verdere informatie</h3>
+    <p>
+        Wilt u nog een bestellig plaatsen? ga dan naar de home pagina.
+    </p>
+</aside>

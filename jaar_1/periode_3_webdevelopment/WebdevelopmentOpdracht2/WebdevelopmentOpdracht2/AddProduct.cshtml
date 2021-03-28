@@ -1,0 +1,33 @@
+﻿@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "Add Product";
+
+    string username;
+    string password;
+    username = Request.QueryString["username"];
+    password = Request.QueryString["password"];
+}
+
+<hgroup class="title">
+    <h1>@Page.Title.</h1>
+    <h2>Voeg een product toe aan de bestelling.</h2>
+</hgroup>
+
+<div>
+    <p>@username</p>
+    <p>@password</p>
+</div>
+
+<form action="~/AddAddress.cshtml" method="post">
+    Selecteer speelgoed:<br>
+    <select name="speelgoed">
+        <option value="bal">Bal</option>
+        <option value="auto">Auto</option>
+        <option value="fiets">Fiets</option>
+        <option value="tv">TV</option>
+    </select>
+    <input type="hidden" name="username" value="@username" />
+    <input type="hidden" name="password" value="@password" />
+    <br><br>
+    <input type="submit" value="Submit">
+</form>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Week4.Views.RegisterPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Margin="32">
+            <Label Text="Gebruikersnaam:"/>
+            <Entry x:Name="Username" Placeholder="Gebruikersnaam"/>
+            <Label Text="Vul een wachtwoord in:"/>
+            <Entry x:Name="Password" Placeholder="Vul een wachtwoord in" IsPassword="True"/>
+            <Label Text="Herhaal het wachtwoord:"/>
+            <Entry x:Name="RepeatPassword" Placeholder="Herhaal het wachtwoord" IsPassword="true"/>
+            <Button Text="Create account" Clicked="Create_Clicked" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

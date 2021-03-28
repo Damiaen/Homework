@@ -1,0 +1,12 @@
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\bin\Debug\netstandard2.0\Week5.deps.json
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\bin\Debug\netstandard2.0\Week5.dll
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\bin\Debug\netstandard2.0\Week5.pdb
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\Week5.csprojAssemblyReference.cache
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\Week5.csproj.CoreCompileInputs.cache
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\Week5.AssemblyInfoInputs.cache
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\Week5.AssemblyInfo.cs
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\Week5.dll
+C:\Projects\AppsProgrammeren\Week5\Week5\Week5\obj\Debug\netstandard2.0\Week5.pdb

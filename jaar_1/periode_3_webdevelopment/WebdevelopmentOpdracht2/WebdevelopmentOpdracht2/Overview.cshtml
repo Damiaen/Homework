@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "Overview";
+
+    //if (Session["OrderInfo"] as List<OrderInfo> != null)
+    //{
+    //    var orderInfo = Session["OrderInfo"] as List<OrderInfo>;
+    //}
+
+    OrderInfo order = (OrderInfo)Session["OrderInfo"];
+
+}
+
+<hgroup class="title">
+    <h1>@Page.Title.</h1>
+    <h2>Overzicht van de bestelling.</h2>
+</hgroup>
+
+<div>
+    <p>@order.Username</p>
+    <p>@order.Password</p>
+    <p>@order.Product</p>
+    <p>@order.Street</p>
+    <p>@order.Number</p>
+    <p>@order.Location</p>
+</div>
+
+<a href="~/OrderComplete.cshtml?status=ok">Bestellen</a>
+<a href="~/OrderComplete.cshtml?status=cancel">Annuleren</a>

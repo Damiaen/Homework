@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "Login";
+}
+
+<hgroup class="title">
+    <h1>@Page.Title.</h1>
+    <h2>Log in op deze pagina.</h2>
+</hgroup>
+
+<form method="post">
+    Gebruikersnaam:<br>
+    <input type="text" name="username" required>
+    <br>
+    Wachtwoord:<br>
+    <input type="password" name="password" required>
+    <br><br>
+    <input type="submit" value="Submit">
+</form>
+
+@{
+    if (IsPost)
+    {
+        string username = Request.Form["username"];
+        string password = Request.Form["password"];
+
+        Response.Redirect("~/AddProduct.cshtml?username="+username+"&password="+password);
+
+    }
+}

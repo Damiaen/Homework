@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WeekTwo"
+             x:Class="WeekTwo.MainPage">
+
+
+    <StackLayout>
+        <ListView x:Name="MovieList" RowHeight="100" ItemSelected="MovieList_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Margin="4">
+                            <Image Source="{Binding ImageSource}" WidthRequest="64"/>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="{Binding Title}"
+                                   FontSize="16"
+                                   Margin="8,8"/>
+
+                                <Label Text="{Binding Description}"
+                                   FontSize="8"
+                                   Margin="8,8"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Entry x:Name="MovieTitle" Placeholder="Titel"/>
+        <Entry x:Name="MovieDescription" Placeholder="Omschrijving"/>
+        <Entry x:Name="MovieImage" Placeholder="Afbeelding.jpg"/>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,16,0,16">
+            <Button x:Name="DeleteButton"
+                    Text="Delete"
+                    Clicked="DeleteButton_Clicked"/>
+            <Button x:Name="AddUpdateButton"
+                    Text="Add/Update"
+                    Clicked="AddUpdateButton_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+
+</ContentPage>

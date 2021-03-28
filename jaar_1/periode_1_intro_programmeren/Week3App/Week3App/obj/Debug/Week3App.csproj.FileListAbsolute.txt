@@ -1,0 +1,7 @@
+C:\Users\Damiaen\source\repos\Week3App\Week3App\bin\Debug\Week3App.exe.config
+C:\Users\Damiaen\source\repos\Week3App\Week3App\bin\Debug\Week3App.exe
+C:\Users\Damiaen\source\repos\Week3App\Week3App\bin\Debug\Week3App.pdb
+C:\Users\Damiaen\source\repos\Week3App\Week3App\obj\Debug\Week3App.csprojAssemblyReference.cache
+C:\Users\Damiaen\source\repos\Week3App\Week3App\obj\Debug\Week3App.csproj.CoreCompileInputs.cache
+C:\Users\Damiaen\source\repos\Week3App\Week3App\obj\Debug\Week3App.exe
+C:\Users\Damiaen\source\repos\Week3App\Week3App\obj\Debug\Week3App.pdb

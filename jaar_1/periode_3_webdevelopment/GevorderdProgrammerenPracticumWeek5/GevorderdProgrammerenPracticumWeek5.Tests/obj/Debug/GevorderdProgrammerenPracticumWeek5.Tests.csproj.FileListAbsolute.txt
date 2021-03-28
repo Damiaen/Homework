@@ -1,0 +1,76 @@
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.pdb
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csprojResolveAssemblyReference.cache
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.pdb
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csprojResolveAssemblyReference.cache
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+D:\School\Vakken\Gevorderd Programmeren\practica\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.pdb
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csprojAssemblyReference.cache
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csproj.CopyComplete
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 3\Geavanceerd programmeren\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.pdb
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csprojAssemblyReference.cache
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csproj.CoreCompileInputs.cache
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csproj.CopyComplete
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5 - opdracht\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\GevorderdProgrammerenPracticumWeek5.pdb
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csprojAssemblyReference.cache
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csproj.CoreCompileInputs.cache
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.csproj.CopyComplete
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.dll
+C:\Projects-HBO\Periode3\GevorderdProgrammerenPracticumWeek5\GevorderdProgrammerenPracticumWeek5.Tests\obj\Debug\GevorderdProgrammerenPracticumWeek5.Tests.pdb

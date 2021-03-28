@@ -1,0 +1,36 @@
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.AssemblyInfoInputs.cache
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.AssemblyInfo.cs
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.pdb
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.deps.json
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.dll
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.pdb
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\XamlC.stamp
+D:\HBO-ICT\Jaar 1 (2018-2019)\Periode 4\Apps programmeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.csprojAssemblyReference.cache
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.deps.json
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.dll
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.pdb
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.csprojAssemblyReference.cache
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.csproj.CoreCompileInputs.cache
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.AssemblyInfoInputs.cache
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.AssemblyInfo.cs
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.dll
+C:\Users\Damiaen\Downloads\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.pdb
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.deps.json
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.dll
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\bin\Debug\netstandard2.0\week3b.pdb
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.csprojAssemblyReference.cache
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.csproj.CoreCompileInputs.cache
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.AssemblyInfoInputs.cache
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.AssemblyInfo.cs
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.dll
+C:\Projects\AppsProgrammeren\week3b\week3b\week3b\obj\Debug\netstandard2.0\week3b.pdb
